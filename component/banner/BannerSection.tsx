@@ -15,12 +15,12 @@ const BannerSection = () => {
         <div className="row">
           <div className="col-xl-7 col-lg-8">
             <div className="tf__banner_text wow fadeInUp">
-              <h5>Welcome to Edu Regortz!</h5>
+              <h5>Welcome to Eduor!</h5>
               <h1>
               Where Learning <span>Becomes</span> Adventure!
               </h1>
               <p>
-              Edu Regortz is more than just a platform; it's a nurturing space where education transforms into an exciting adventure. With a passion for igniting curiosity and inspiring young minds.
+              Eduor is more than just a platform; it's a nurturing space where education transforms into an exciting adventure. With a passion for igniting curiosity and inspiring young minds.
               </p>
               <ul className="d-flex flex-wrap align-items-center">
                 <li>

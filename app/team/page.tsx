@@ -7,7 +7,7 @@ import { TeamType } from '@/types'
 import { getTeam } from '@/sanity/sanity.query'
 
 export const metadata: Metadata = {
-    title: "Edu Regortz Team",
+    title: "Eduor Team",
     description: "Developed by Azizur Rahman",
   }
 const page = async() => {

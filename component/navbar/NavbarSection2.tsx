@@ -66,7 +66,7 @@ const NavbarSection2 = () => {
           <Link className="navbar-brand" href="/">
             <img
               src="images/logo2.png"
-              alt="Edu Regortz"
+              alt="Eduor"
               className="img-fluid w-100"
             />
           </Link>

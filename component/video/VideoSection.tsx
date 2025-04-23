@@ -22,7 +22,7 @@ const VideoSection = () => {
                 >
                   <i className="fas fa-play"></i>
                 </a>
-                <h4>Let’s See More About Edu Regortz!</h4>
+                <h4>Let’s See More About Eduor!</h4>
                 <p>
                   There are many variations of passages of agency Lorem Ipsum
                   Fasts injecte.

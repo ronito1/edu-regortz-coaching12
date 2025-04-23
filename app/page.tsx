@@ -18,7 +18,7 @@ import { ActivityType, BlogType, CategoryType, EventType, FaqType, TestimonialTy
 import type { Metadata } from 'next'
  
 export const metadata: Metadata = {
-  title: "Edu Regortz Home Page 1",
+  title: "Eduor Home Page 1",
   description: "Developed by Azizur Rahman",
 }
 export default async function Home() {

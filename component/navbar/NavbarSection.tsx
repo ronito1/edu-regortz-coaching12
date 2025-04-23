@@ -70,7 +70,7 @@ const NavbarSection = ({ style, logo }: Props) => {
     >
       <div className="container">
         <Link className="navbar-brand" href="/">
-          <img src={logo} alt="Edu Regortz" className="img-fluid w-100" />
+          <img src={logo} alt="Eduor" className="img-fluid w-100" />
         </Link>
         {isMobileNavOpen ? (
           <button

@@ -5,7 +5,7 @@ import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import TermSection from '@/component/terms/TermSection'
 
 export const metadata: Metadata = {
-    title: "Edu Regortz Privacy And Policy",
+    title: "Eduor Privacy And Policy",
     description: "Developed by Azizur Rahman",
   }
 const page = () => {

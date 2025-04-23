@@ -7,7 +7,7 @@ import { BlogType } from '@/types'
 import { getBlog } from '@/sanity/sanity.query'
  
 export const metadata: Metadata = {
-  title: "Edu Regortz Blog",
+  title: "Eduor Blog",
   description: "Developed by Azizur Rahman",
 }
 const page = async() => {

@@ -5,7 +5,7 @@ import React from 'react'
 import type { Metadata } from 'next'
  
 export const metadata: Metadata = {
-  title: "Edu Regortz Contact",
+  title: "Eduor Contact",
   description: "Developed by Azizur Rahman",
 }
 const page = () => {

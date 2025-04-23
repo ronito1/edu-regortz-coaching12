@@ -8,7 +8,7 @@ import { TeamType } from '@/types';
 import { getTeam } from '@/sanity/sanity.query';
 
 export const metadata: Metadata = {
-    title: "Edu Regortz Team Details",
+    title: "Eduor Team Details",
     description: "Developed by Azizur Rahman",
   }
 const page = async({ params } : { params : { slug: string} }) => {

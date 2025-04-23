@@ -33,6 +33,7 @@ const AboutSection = () => {
       }
     };
   }, []);
+
   return (
     <section className="tf__about mt_250 xs_mt_195">
       <div className="container">
@@ -98,14 +99,13 @@ const AboutSection = () => {
               <div className="text counter-box">
                 <i className="far fa-check-circle"></i>
                 <h3>
-                {isVisible && (
-                  <CountUp
-                    start={1}
-                    end={ 183}
-                    duration={5}
-                    formattingFn={(value) => `${value}K+`}
-                  />
-                )}
+                  {isVisible && (
+                    <CountUp
+                      start={1}
+                      end={183}
+                      formattingFn={(value) => `${value}K+`}
+                    />
+                  )}
                 </h3>
                 <p>Complete Projects</p>
               </div>

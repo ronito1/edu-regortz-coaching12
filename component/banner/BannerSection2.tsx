@@ -17,7 +17,7 @@ const BannerSection2 = () => {
             <div className="tf__banner_text tf__banner_2_text wow fadeInUp">
               <h5>experts advisors / 56+ Courses / program</h5>
               <h1>
-                Start Learning <span>Courses</span> From Edu Regortz.
+                Start Learning <span>Courses</span> From Eduor.
               </h1>
               <p>
                 Our agency can only be as strong as our people & because of team

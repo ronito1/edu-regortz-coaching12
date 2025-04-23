@@ -5,7 +5,7 @@ import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import RegisterSection from '@/component/authentication/RegisterSection'
 
 export const metadata: Metadata = {
-    title: "Edu Regortz Sign Up",
+    title: "Eduor Sign Up",
     description: "Developed by Azizur Rahman",
   }
 const page = () => {

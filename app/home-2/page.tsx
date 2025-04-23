@@ -18,7 +18,7 @@ import ScrollToTopButton from '@/component/utils/ScrollToTopButton'
 import { getBlog, getCategory, getCourse, getEvent, getService, getTeam, getTestimonial } from '@/sanity/sanity.query';
 import { BlogType, CategoryType, CourseType, EventType, ServiceType, TeamType, TestimonialType } from '@/types';
 export const metadata: Metadata = {
-    title: "Edu Regortz Home 2",
+    title: "Eduor Home 2",
     description: "Developed by Azizur Rahman",
   }
 const page = async() => {

@@ -20,7 +20,7 @@ const FooterSection2 = ({ style, logo } : Props) => {
             <a className="venobox" role="button" onClick={handleVideoShow}>
               <i className="fas fa-play"></i>
             </a>
-            <h3>Let’s See More About Edu Regortz!</h3>
+            <h3>Let’s See More About Eduor!</h3>
             <p>
               There are many variations of passages of agency Lorem Ipsum Fasts
               injecte.
@@ -40,7 +40,7 @@ const FooterSection2 = ({ style, logo } : Props) => {
                 <div className="col-xl-3 col-md-7 col-lg-3">
                   <div className="tf__footer_logo_area">
                     <Link className="footer_logo" href="/">
-                      <img src={logo} alt="Edu Regortz" className="img-fluid w-100" />
+                      <img src={logo} alt="Eduor" className="img-fluid w-100" />
                     </Link>
                     <p>
                       Nemo enim ipsam voluptate quia voluptas sit aspernatur aut
@@ -128,7 +128,7 @@ const FooterSection2 = ({ style, logo } : Props) => {
 
                 <div className="col-12">
                   <div className="tf__copyright">
-                    <p>Copyright ©Edu Regortz all rights reserved.</p>
+                    <p>Copyright ©Eduor all rights reserved.</p>
                     <ul className="d-flex flex-wrap">
                       <li>
                         <Link href="/privacy-policy">Privacy policy</Link>
