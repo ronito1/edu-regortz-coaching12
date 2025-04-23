@@ -5,7 +5,6 @@ import HeaderSection from '@/component/header/HeaderSection'
 import NavbarSection2 from '@/component/navbar/NavbarSection2'
 import BannerSection2 from '@/component/banner/BannerSection2'
 import CategorySection2 from '@/component/category/CategorySection2'
-import AboutSection2 from '@/component/about/AboutSection2'
 import PopularServiceSection from '@/component/service/PopularServiceSection'
 import EventSection from '@/component/event/EventSection'
 import TestimonialSection2 from '@/component/testimonial/TestimonialSection2'
@@ -36,7 +35,7 @@ const page = async() => {
       <NavbarSection2 />
       <BannerSection2 />
       {categoryData && <CategorySection2 categoryData={categoryData}/>}
-      <AboutSection2 />
+  
       {serviceData && <PopularServiceSection serviceData={serviceData}/>}
       {eventData && <EventSection
         section="tf__upcoming_event mt_100 pt_95 pb_100"

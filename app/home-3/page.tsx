@@ -10,7 +10,6 @@ import TeamSection from '@/component/team/TeamSection'
 import CounterSection from '@/component/counter/CounterSection'
 import CourseSection2 from '@/component/course/CourseSection2'
 import ContactSection from '@/component/contact/ContactSection'
-import AboutSection3 from '@/component/about/AboutSection3'
 import CategorySection3 from '@/component/category/CategorySection3'
 import BannerSection3 from '@/component/banner/BannerSection3'
 import NavbarSection from '@/component/navbar/NavbarSection'
@@ -34,7 +33,6 @@ const page = async() => {
       <NavbarSection style="main_menu_3" logo="images/logo3.png" />
       <BannerSection3 />
       {categoryData && <CategorySection3 categoryData={categoryData}/>}
-      <AboutSection3 style="about_3" />
       <ContactSection />
       {courseData && <CourseSection2 courseData={courseData}/>}
       <CounterSection />

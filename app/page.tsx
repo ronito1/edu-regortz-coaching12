@@ -1,5 +1,4 @@
 
-import AboutSection from '@/component/about/AboutSection';
 import ActivitySection from '@/component/activity/ActivitySection';
 import BannerSection from '@/component/banner/BannerSection';
 import BlogSection from '@/component/blog/BlogSection';
@@ -34,7 +33,7 @@ export default async function Home() {
       <NavbarSection style="" logo="images/logo.png" />
       <BannerSection />
       {categoryData && <CategorySection categoryData={categoryData}/>}
-      <AboutSection />
+    
       {eventData && <EventSection section="tf__event mt_95" startIndex={0} endIndex={4} eventData={eventData}/>}
       {faqData && <FaqSection img="images/faq_img.jpg" faqData={faqData}/>}
       {workData && <WorkSection workData={workData}/>}
